@@ -3,6 +3,4 @@
 
 🟣 I'm passionate about learning **programming, solving problems** and how to write **better code.**
 
-🟣 I have an interest in the world of **AI**, specifically, **Machine Learning** and **Deep learning.**
-
-🟣 My goal is to solve **real-world problems** and making people lives better and happier. 💗
+![test image](https://github.com/MoHarby/Extra/blob/main/download.png)
