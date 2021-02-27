@@ -1,5 +1,5 @@
 ## Hi, I'm Mohamed 👋
-🟣 I'm a **computer engineer** student. 👨‍💻
+🟣 I'm a **computer engineering** student. 👨‍💻
 
 🟣 I'm passionate about learning **programming, solving problems** and how to write **better code.**
 
